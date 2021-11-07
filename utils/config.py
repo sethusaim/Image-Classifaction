@@ -1,0 +1,17 @@
+NUM_WORKERS = 2
+
+TRAIN_BATCH_SIZE = 16
+
+VAL_BATCH_SIZE = 16
+
+EPOCHS = 20
+
+LEARNING_RATE = 0.01
+
+CHECKPOINTS_PATH = "checkpoints"
+
+TRAIN_DATA_DIR = "data/train"
+
+VAL_DATA_DIR = "data/val"
+
+DATA_DIR = "data"
